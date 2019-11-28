@@ -9,7 +9,7 @@
 <body>
 
 
-<form action=/｛アプリケーション名｝/LoginServlet" method="post">
+<form action="/example01/LoginServlet" method="post">
 ユーザーID：<input type="text" name="userId"><br>
 パスワード：<input type="password" name="pass"><br>
 <input type="submit" value="ログイン"><br>
